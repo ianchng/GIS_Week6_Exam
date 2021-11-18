@@ -1,0 +1,9 @@
+---
+title: "Week6Exam"
+output: html_document
+---
+
+```{r}
+
+```
+
